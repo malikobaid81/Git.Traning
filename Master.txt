@@ -1,2 +1,7 @@
 This is Master
+<<<<<<< HEAD
 DevA has added a line
+=======
+DevB has Added two lines
+DevB has added another line
+>>>>>>> DevB

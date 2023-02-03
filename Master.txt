@@ -1,6 +1,15 @@
 This is Master
+ DevA
 DevA has added a line
 DevA is adding and adding
 asdfg lkjh
 qwert poiuy
 zxcv mnb
+=======
+HEAD
+DevA has added a line
+=======
+DevB has Added two lines
+DevB has added another line
+DevB
+master
